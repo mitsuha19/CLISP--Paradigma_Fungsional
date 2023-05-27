@@ -1,0 +1,8 @@
+(defun isJamValid (j m d)
+    (and (<= j 23)
+    (<= m 59)
+    (<= d 59)
+    (>= j 0)
+    (>= m 0)
+    (>= d 0))
+)
