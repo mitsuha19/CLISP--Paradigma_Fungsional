@@ -1,2 +1,2 @@
 # CLISP--Paradigma_Fungsional
- bari berLisp bersama
+ mari berLisp bersama
